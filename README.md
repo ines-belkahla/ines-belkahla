@@ -1,6 +1,6 @@
 # Ines Belkahla, cat lover and book worm
 
-**AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
+## **AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
 
 I build practical LLM and retrieval systems, from fine-tuning and evaluation to deployment. I am especially interested in RAG, semantic search, and local, privacy-first AI.
 
@@ -17,15 +17,6 @@ Tunis, Tunisia |
 | **[BookTea](https://github.com/ines-belkahla)** | Semantic book recommendation with Transformer embeddings and MLflow experiment tracking | Python, SentenceTransformers, FastAPI, React, MongoDB |
 | **[Fluency](https://github.com/ines-belkahla)** | Fine-tuned Gemma 7B code assistant inside a full-stack app | Python, Gemma 7B, Django, Vue.js |
 | **[ChatOrderly](https://github.com/ines-belkahla)** | LLM-powered food recommendation API using local models and embeddings | Python, Ollama, REST API |
-
----
-
-## Tech Stack
-
-**AI / ML:** scikit-learn, Hugging Face Transformers, RAG, Ollama
-**Backend:** Python, FastAPI, Django, REST APIs
-**Data:** PostgreSQL, MySQL, MongoDB, SQL
-**Tools:** Git, Docker
 
 ---
 
