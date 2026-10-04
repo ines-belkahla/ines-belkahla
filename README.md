@@ -1,4 +1,4 @@
-# Ines Belkahla, cat lover and book warm
+# Ines Belkahla, cat lover and book worm
 
 **AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
 
@@ -29,16 +29,6 @@ Tunis, Tunisia |
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines-belkahla&layout=compact&hide_border=true" />
-</p>
-
-![Streak](https://streak-stats.demolab.com/?user=ines-belkahla&hide_border=true)
-
----
-
 ## Certifications
 
 - NVIDIA: Building LLM Applications with Prompt Engineering
@@ -48,3 +38,12 @@ Tunis, Tunisia |
 ---
 
 Currently looking for **AI / ML internships** (remote or hybrid). Always happy to connect!
+---
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines-belkahla&layout=compact&hide_border=true" />
+</p>
+
+![Streak](https://streak-stats.demolab.com/?user=ines-belkahla&hide_border=true)
