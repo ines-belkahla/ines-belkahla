@@ -1,6 +1,6 @@
 # Ines Belkahla, cat lover and book worm
 
-## **AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
+### **AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
 
 I build practical LLM and retrieval systems, from fine-tuning and evaluation to deployment. I am especially interested in RAG, semantic search, and local, privacy-first AI.
 
@@ -29,6 +29,7 @@ Tunis, Tunisia |
 ---
 
 Currently looking for **AI / ML internships** (remote or hybrid). Always happy to connect!
+
 ---
 
 ## GitHub Stats
