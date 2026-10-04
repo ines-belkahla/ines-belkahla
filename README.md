@@ -1,10 +1,10 @@
-# Ines Belkahla
+# Ines Belkahla, cat lover and book warm
 
 **AI / Machine Learning Engineer** | Data Science & AI Engineering student @ TEK-UP | NVIDIA-certified
 
 I build practical LLM and retrieval systems, from fine-tuning and evaluation to deployment. I am especially interested in RAG, semantic search, and local, privacy-first AI.
 
-Tunis, Tunisia | Arabic (native), English (C1), French (B1)
+Tunis, Tunisia |
 [LinkedIn](https://linkedin.com/in/ines-belkahla) | [Email](mailto:blkahlaines@gmail.com)
 
 ---
@@ -22,17 +22,16 @@ Tunis, Tunisia | Arabic (native), English (C1), French (B1)
 
 ## Tech Stack
 
-**AI / ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, SentenceTransformers, RAG, Ollama, MLflow
+**AI / ML:** scikit-learn, Hugging Face Transformers, RAG, Ollama
 **Backend:** Python, FastAPI, Django, REST APIs
 **Data:** PostgreSQL, MySQL, MongoDB, SQL
-**Tools:** Git, Docker, Linux
+**Tools:** Git, Docker
 
 ---
 
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ines-belkahla&show_icons=true&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines-belkahla&layout=compact&hide_border=true" />
 </p>
 
@@ -48,4 +47,4 @@ Tunis, Tunisia | Arabic (native), English (C1), French (B1)
 
 ---
 
-Currently looking for **AI / ML internships** (remote or relocation). Always happy to connect.
+Currently looking for **AI / ML internships** (remote or hybrid). Always happy to connect!
